@@ -1,0 +1,1 @@
+- Learn by heart the tables in Inteface and Cables section of the 2 day of study. Also recheck the video
