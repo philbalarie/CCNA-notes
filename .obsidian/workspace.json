@@ -11,11 +11,28 @@
             "id": "ee94ee5a6b7bfc4b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CCNA/Interfaces & Cables/UTP Cables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7178c20d2aa6116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCNA/OSI and TCPIP models/OSI Model.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CCNA/OSI and TCPIP models/OSI Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CCNA/OSI and TCPIP models/OSI Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CCNA/OSI and TCPIP models/OSI Model.md"
+              }
             }
           }
         ]
@@ -138,9 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee94ee5a6b7bfc4b",
+  "active": "d7178c20d2aa6116",
   "lastOpenFiles": [
     "CCNA/Interfaces & Cables/UTP Cables.md",
+    "CCNA/OSI and TCPIP models/OSI Model.md",
+    "CCNA/OSI and TCPIP models",
     "CCNA/Study notes.md",
     "CCNA/Interfaces & Cables",
     "CCNA"
