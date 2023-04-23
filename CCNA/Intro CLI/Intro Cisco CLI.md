@@ -1,5 +1,5 @@
 **enable**: Used to enter privileged EXEC mode
-**configure terminal**: Used to enter global configuration mode
+**configure terminal** or **conf t**: Used to enter global configuration mode
 **enable password password**: Configures a password to protect privileged exec mode
 **service password-encryption**: Encrypts the enable password (and other passwords)
 **enable secret password**: Configures a more secure, always encrypted enable password
