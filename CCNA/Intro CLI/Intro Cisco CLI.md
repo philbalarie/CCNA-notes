@@ -5,9 +5,10 @@
 **enable secret password**: Configures a more secure, always encrypted enable password
 **run** privileged-exec-level-command: executes a privileged-ecec level command from global configuration mode
 **no** command: removes the command
-**show running-config**: displays the current, active configuration file
+**show running-config** or **sh run**: displays the current, active configuration file
 **show startup-config**: display the saved configuration file which will be loaded if the device is restarted
 **write**: saves the configuration
 **write memory**: saves the configuration
 **copy running-config startup-config**: saves the configuration
+**do**: Run privilege mode command in configuration mode
 
